@@ -1,1 +1,44 @@
 # vikas-goswami
+# Hi there, I'm Vikas 👋
+
+🎯 **Aspiring Data Analyst | Excel | Python | SQL | Power BI**
+
+I'm passionate about exploring data and uncovering insights that drive better business decisions.  
+Currently learning data analysis with Python and Power BI — and building real-world projects to strengthen my skills.
+
+---
+
+### 🧠 My Current Focus
+- Analyzing open datasets from Kaggle
+- Building interactive dashboards in Power BI
+- Practicing SQL for data cleaning and reporting
+- Sharing my learning journey on LinkedIn
+
+---
+
+### 💼 Projects
+
+| Project | Tools | Description |
+|----------|-------|--------------|
+| [📊 Sales Dashboard (Power BI)](link-to-repo) | Power BI | Analyzed retail sales to track revenue trends and KPIs. |
+| [🐍 Data Cleaning with Python](link-to-repo) | Python (pandas, matplotlib) | Cleaned messy CSV data and visualized trends. |
+| [💾 SQL Store Analysis](link-to-repo) | MySQL | Extracted key business insights using SQL queries. |
+
+---
+
+### 🧰 Skills
+- **Languages:** Python, SQL  
+- **Visualization:** Power BI, Excel  
+- **Libraries:** pandas, matplotlib, seaborn  
+- **Other Tools:** Git, Google Colab
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/vikas-girigoswami-122372201)
+- [Email](mailto:vgiri3017@gmail.com)
+
+---
+
+> “Data is the new oil — I’m learning how to refine it.”
+
