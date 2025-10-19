@@ -20,7 +20,7 @@ Currently learning data analysis with Python and Power BI — and building real-
 
 | Project | Tools | Description |
 |----------|-------|--------------|
-| [📊 Sales Dashboard (Power BI)](link-to-repo) | Power BI | Analyzed retail sales to track revenue trends and KPIs. |
+| [📊 Sales Dashboard (Power BI)](powerbi-sales-dashboard) | Power BI | Analyzed retail sales to track revenue trends and KPIs. |
 | [🐍 Data Cleaning with Python](link-to-repo) | Python (pandas, matplotlib) | Cleaned messy CSV data and visualized trends. |
 | [💾 SQL Store Analysis](link-to-repo) | MySQL | Extracted key business insights using SQL queries. |
 
