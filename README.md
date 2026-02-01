@@ -24,7 +24,7 @@ Currently learning data analysis with Python and Power BI — and building real-
 | [🐍 Data Cleaning with Python](link-to-repo) | Python (pandas, matplotlib) | Cleaned messy CSV data and visualized trends. |
 | [💾 SQL Store Analysis](link-to-repo) | MySQL | Extracted key business insights using SQL queries. |
 | [📈 Excel Sales Dashboard](https://github.com/HackToolsYT/excel-sales-dashboard) | Excel (Pivot Tables, Charts) | Built an interactive Excel dashboard to analyze sales performance and key KPIs. |
-
+| Finance Dashboard (Power BI) | Power BI | Created a comprehensive finance analytics dashboard with key financial KPIs, broker comparisons, account performance visuals, and time-based trend analysis. |
 ---
 
 ### 🧰 Skills
