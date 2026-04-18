@@ -21,7 +21,7 @@ Currently learning data analysis with Python and Power BI — and building real-
 | Project | Tools | Description |
 |----------|-------|--------------|
 | [📊 Sales Dashboard (Power BI)](https://github.com/HackToolsYT/mobile-sales-dashboard) | Power BI | Analyzed retail sales to track revenue trends and KPIs. |
-| [🐍 Data Cleaning with Python](link-to-repo) | Python (pandas, matplotlib) | Cleaned messy CSV data and visualized trends. |
+| [Customer Shopping Behavior Analysis](https://github.com/HackToolsYT/your-repo-name) | SQL, Python, Power BI |  |
 | [💾 SQL Store Analysis](link-to-repo) | MySQL | Extracted key business insights using SQL queries. |
 | [📈 Excel Sales Dashboard](https://github.com/HackToolsYT/excel-sales-dashboard) | Excel (Pivot Tables, Charts) | Built an interactive Excel dashboard to analyze sales performance and key KPIs. |
 | [Finance Dashboard (Power BI)](https://github.com/HackToolsYT/powerbi-finance-dashboard) | Power BI | Created a comprehensive finance analytics dashboard with key financial KPIs, broker comparisons, account performance visuals, and time-based trend analysis. |
