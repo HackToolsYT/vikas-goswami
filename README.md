@@ -1,7 +1,7 @@
 # vikas-goswami
 # Hi there, I'm Vikas 👋
 
-🎯 **Aspiring Data Analyst | Excel | Python | SQL | Power BI**
+Data Analyst | Excel | Python | SQL | Power BI**
 
 I'm passionate about exploring data and uncovering insights that drive better business decisions.  
 Currently learning data analysis with Python and Power BI — and building real-world projects to strengthen my skills.
